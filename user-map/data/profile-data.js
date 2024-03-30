@@ -5,7 +5,7 @@ export const profile_data = {
         email: "dhoni7@gmail.com",
         interests: "Sports, Travel, Dance",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        map: "pheonix millenium mall, wakad",
+        map: "bynry cooperation, bavdhan",
         contact: "+919885432109",
     },
     2: {
@@ -14,7 +14,7 @@ export const profile_data = {
         email: "virat@gmail.com",
         interests: "Sports, Travel, Poetry",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        map: "florencia apartment, kaspate wasti",
+        map: "pheonix millenium mall, wakad",
         contact: "+919765439909",
     },
     3: {
@@ -32,7 +32,7 @@ export const profile_data = {
         email: "gill77@gmail.com",
         interests: "Sports, Travel, Singing",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-        map: "bynry cooperation, bavdhan",
+        map: "florencia apartment, kaspate wasti",
         contact: "+919700002109",
     },
     5: {
