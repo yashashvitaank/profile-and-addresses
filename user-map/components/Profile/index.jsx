@@ -17,7 +17,7 @@ function Profile(props) {
   return (
     <div className="flex justify-between items-center p-5 bg-white rounded m-4 cursor-pointer hover:scale-[1.01] " onClick={()=>{router.push(url)}}>
         <ProfileDetail {...props} />
-    <Button name="Summary" onClick = {handleClick} />
+    <Button name="Show Map" onClick = {handleClick} />
     </div>
   )
 }
